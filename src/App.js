@@ -47,10 +47,3 @@ const App = ()=>{
 
 export default App;
 
-ahahahaha
-
-
-lololo
-
-o hahahhhahaahaah
-
